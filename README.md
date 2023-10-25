@@ -1,5 +1,5 @@
 # Marketing-Analytics-Project
- Customers analysis using: RFM, Churn, MBA and Sentiment Analysis
+ Customer analysis using: RFM, Churn, MBA and Sentiment Analysis
 
 In this the project the goal is to analyze customers through the use
 of RFM(Recency, Frequency, Model) model, Churn model, MBA(Market Basket Analysis) and
